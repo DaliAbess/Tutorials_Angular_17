@@ -1,0 +1,2 @@
+install -g @angular/cli@17.0.0
+npm install bootstrap
